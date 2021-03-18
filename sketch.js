@@ -16,7 +16,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://kai220.github.io/bird/index.html';
+let soundModelURL = 'https://kai220.github.io/bird/model.json';
 
 
 function preload() {
